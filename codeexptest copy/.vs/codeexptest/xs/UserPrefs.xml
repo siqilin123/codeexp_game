@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8D3E6190-76CB-BED1-13EA-C1D0D3D05E6B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Joystick Pack/Examples/JoystickPlayerExample.cs">
+    <Files>
+      <File FileName="Assets/playermovement.cs" Line="22" Column="6" />
+      <File FileName="Assets/Joystick Pack/Examples/JoystickPlayerExample.cs" Line="7" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="codeexptest" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Joystick Pack" expanded="True">
+                <Node name="Examples" expanded="True">
+                  <Node name="JoystickPlayerExample.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="575179ca-db0a-456a-9867-b89c1681e8bb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

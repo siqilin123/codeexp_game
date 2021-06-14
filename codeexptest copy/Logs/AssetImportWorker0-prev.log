@@ -1,0 +1,103 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/2020.2.4f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/tinkertanker/Desktop/codeexptest
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57865
+Successfully changed project path to: /Users/tinkertanker/Desktop/codeexptest
+/Users/tinkertanker/Desktop/codeexptest
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 39.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.4f1 (becced5a802b)
+[Subsystems] Discovering subsystems at path /Applications/2020.2.4f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/tinkertanker/Desktop/codeexptest/Assets
+GfxDevice: creating device client; threaded=0
+2021-06-14 14:46:56.976 Unity[48611:6531056] Color LCD preferred device: NVIDIA GeForce GT 750M (high power)
+2021-06-14 14:46:56.976 Unity[48611:6531056] Metal devices available: 2
+2021-06-14 14:46:56.976 Unity[48611:6531056] 0: NVIDIA GeForce GT 750M (high power)
+2021-06-14 14:46:56.976 Unity[48611:6531056] 1: Intel Iris Pro Graphics (low power)
+2021-06-14 14:46:56.976 Unity[48611:6531056] Using device NVIDIA GeForce GT 750M (high power)
+Initializing Metal device caps: NVIDIA GeForce GT 750M
+Initialize mono
+Mono path[0] = '/Applications/2020.2.4f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56611
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.2.4f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000946 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 43.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.414 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000628 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 43.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.322 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/2020.2.4f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 148.0 MB.
+System memory in use after: 148.0 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2238.
+Total: 2.526807 ms (FindLiveObjects: 0.234503 ms CreateObjectMapping: 0.080651 ms MarkObjects: 2.052775 ms  DeleteObjects: 0.156659 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(a57d3ef762c0f4d15884b36716b454da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(a57d3ef762c0f4d15884b36716b454da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9490eaf30c0f8e3b93b25236c9508bdf') in 0.005585 seconds
+  Import took 0.010162 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003696 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.252 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.7 MB.
+System memory in use after: 167.7 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2326.
+Total: 2.558533 ms (FindLiveObjects: 0.226517 ms CreateObjectMapping: 0.073076 ms MarkObjects: 2.123578 ms  DeleteObjects: 0.134181 ms)
+
